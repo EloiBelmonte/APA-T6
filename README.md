@@ -258,7 +258,7 @@ Inserte a continuación una captura de pantalla que muestre el resultado de ejec
 fichero `alumno.py` con la opción *verbosa*, de manera que se muestre el
 resultado de la ejecución de los tests unitarios.
 
-![Ejecución de tests](TEST_ALUMNOS.png)
+![Ejecución de tests](TEST_ALUMNOS2.png)
 
 <br>
 
