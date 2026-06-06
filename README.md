@@ -274,7 +274,7 @@ Inserte a continuación los códigos fuente desarrollados en esta tarea, usando 
 comandos necesarios para que se realice el realce sintáctico en Python del mismo (no
 vale insertar una imagen o una captura de pantalla, debe hacerse en formato *markdown*).
 
-##### Código python.py
+##### Código alumno.py
 ```python
 """
 Práctica de Expresiones Regulares
